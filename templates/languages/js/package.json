@@ -1,0 +1,6 @@
+{
+    "main": "app.js",
+    "scripts": {
+        "lint": "eslint ."
+    }
+}

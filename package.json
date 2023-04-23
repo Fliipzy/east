@@ -1,0 +1,16 @@
+{
+  "name": "knowit-east",
+  "version": "1.0.0",
+  "description": "A frontend project template installer for KnowIt CPH.",
+  "main": "app.js",
+  "author": "Frederik Lundbeck Jørgensen",
+  "license": "ISC",
+  "bin": {
+    "east": "./app.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "inquirer": "^8.0.0",
+    "merge-packages": "^0.1.6"
+  }
+}
